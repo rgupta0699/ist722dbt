@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: obt_sales
+    description: one row contains details of product items ordered by customer with quantity and price
